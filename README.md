@@ -9,9 +9,12 @@ The goal was to simulate a real-world DevOps workflow involving Git branching, p
 
 ## 📁 Project Structure
 
-mern-docker-compose/
+Task_3_Internship_/
+
 ├── backend/ # Node.js + Express API
+
 ├── frontend/ # React.js frontend
+
 └── docker-compose.yml
 
 ---
